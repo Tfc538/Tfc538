@@ -6,13 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tfc538&theme=onedark" alt="tfc538" /></a> </p>
 
 - 🔭 I’m currently working on [Wild-Kamera.com](https://wild-kamera.com/)
-
-- 👯 I’m looking to collaborate on [NovelWeaver](https://github.com/Tfc538/NovelWeaver)
-
 - 👨‍💻 All of my projects are available at [https://tim-gatzke.de](https://tim-gatzke.de)
-
 - 💬 Ask me about **Next.JS, LUA Development and FiveM Development**
-
 - 📫 How to reach me **post@tim-gatzke.de**
 
 <h3 align="left">Languages and Tools:</h3>
