@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tim Gatzke</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tfc538&label=Profile%20views&color=0e75b6&style=flat" alt="tfc538" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tfc538&label=Profile%20views&color=0e75b6&style=for-the-badge&base=1465" alt="tfc538" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tfc538&theme=onedark" alt="tfc538" /></a> </p>
 
