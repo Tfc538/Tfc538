@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=60168596)
 <h1 align="center">Hi 👋, I'm Tim Gatzke</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
@@ -17,3 +16,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tfc538&show_icons=true&theme=onedark&title_color=ffffff&text_color=c2c2c2&locale=en" alt="tfc538" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfc538&theme=dark" alt="tfc538" /></p>
+
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
+![](https://hit.yhype.me/github/profile?user_id=60168596)
