@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=60168596)
 <h1 align="center">Hi 👋, I'm Tim Gatzke</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
